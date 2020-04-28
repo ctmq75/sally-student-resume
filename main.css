@@ -1,0 +1,21 @@
+#contact-info {
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+
+span {
+    margin-left: .2em;
+}
+
+@media only screen and (min-width: 600px) {
+    .content {
+      margin: 0 10%;
+    }
+
+    img {
+        width: 15%;
+        height: auto;
+    }
+  }
